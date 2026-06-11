@@ -1,6 +1,6 @@
 # Подписка на рентген - 2026-06-12
 б# Всегород: 72
-бурмальда vpn
+
 vless://10360c23-9847-4508-b50e-7ada85fbb0a7@217.60.35.52:443?шифрование=нет&безопасность=рельносность&тип=tcp&sni=nl-cdn.ru&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&sid=c9b0c990b745646d&flow=xtls-rprx-vision#🇦🇹 AT Австрия
 vless://129400e5-7d1b-4720-bf3e-f877c3e5021e@185.151.241.186:2443?шифрование=нет&безопасность=рельносность&тип=tcp&sni=www.microsoft.com&fp=firefox&pbk=wa00o0wO4pEn9ki565dMNkzt0SBcuJ4aRyz6tpTYmQw&sid=9d35004ad989e412&flow=xtls-rprx-vision#🇦🇺 AU Австралия
 vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@45.198.105.196:8443?шифрование=нет&безопасность=рельносность&тип=tcp&sni=storage.yandex.net&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&flow=xtls-rprx-vision#🇨🇦 CA Канада
